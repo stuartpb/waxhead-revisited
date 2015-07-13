@@ -40,3 +40,19 @@ The typical layout of a machine Orpheo's Curse would run on looks like:
 
 - A hard drive mounted to C:
 - A CD-ROM drive with the game in it mounted to D:
+
+### Minimum Requirements
+
+Are You Afraid of the Dark requires the following:
+
+ - MS-DOS 5.0 or higher
+ - 3000k (3072000 bytes) of extended memory
+ - 500k (512000 bytes) of conventional memory
+ - a VESA compliant video board
+ - a 100% Sound Blaster compatible sound card, a Pro Audio series 
+   sound card, a Microsoft Sound System sound card, or an Adlib Gold 
+   series sound card.
+ - a 100% Microsoft compatible mouse using Microsoft Mouse driver 
+   8.20a or higher.
+ - a CD-ROM drive that is at least single speed (150 Kb/sec transfer
+   rate).
